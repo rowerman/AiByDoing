@@ -1,0 +1,12 @@
+# 忽略所有 .txt 文件
+*.txt
+
+# 忽略常见图片文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
