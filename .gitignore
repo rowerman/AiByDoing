@@ -10,3 +10,5 @@
 *.tiff
 *.webp
 *.svg
+
+__pycache__/
